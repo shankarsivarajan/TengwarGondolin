@@ -1,6 +1,6 @@
 # Tengwar Gondolin
 
-Tengwar font for capital letters of my own design, based on glyphs from [_Libertinus._](https://github.com/alerque/libertinus)  
+Tengwar font with capital letters of my own design, based on glyphs from [_Libertinus._](https://github.com/alerque/libertinus)  
 It is intended to be typed without tehtar, but they are included.
 
 ![gondolin_title](https://user-images.githubusercontent.com/16606427/197364575-7b5521f5-1430-4a64-b714-af3d77d97da7.png)
