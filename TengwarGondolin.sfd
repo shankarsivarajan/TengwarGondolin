@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1107308838
-ModificationTime: 1685818861
+ModificationTime: 1685819810
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -1102,7 +1102,7 @@ SplineSet
  181 645 l 1,0,-1
 EndSplineSet
 Validated: 1
-Kerns2: 16 -75 "'kern' Horizontal Kerning lookup 2 subtable" 17 -50 "'kern' Horizontal Kerning lookup 2 subtable" 20 -125 "'kern' Horizontal Kerning lookup 2 subtable"
+Kerns2: 16 -100 "'kern' Horizontal Kerning lookup 2 subtable" 17 -100 "'kern' Horizontal Kerning lookup 2 subtable" 20 -125 "'kern' Horizontal Kerning lookup 2 subtable"
 EndChar
 
 StartChar: parma
@@ -5534,7 +5534,7 @@ SplineSet
  86 33 86 33 98 47.5 c 128,-1,70
  110 62 110 62 110 122 c 2,0,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: tengwa_parenthesis
